@@ -1,0 +1,18 @@
+{
+    "name": "autoclicker",
+    "description": "test autoclicker application",
+    "image": "https://ipfs.io/ipfs/Qmc5FTkTjegzTwM7VJqBp1vXkK6e6HU78NegMc4v3Ntore?filename=autoclicker.exe",
+    "external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "attributes": [
+        {
+            "trait_type": "executable",
+            "value": 100
+        },
+        {
+            "trait_type": "application",
+            "value": 250
+        }
+    ],
+    "artist": "0x1D333496F972CB9558914d6F5321734C2063076b",
+    "mediaType": "application/exe"
+}

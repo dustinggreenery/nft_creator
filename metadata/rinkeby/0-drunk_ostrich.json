@@ -1,0 +1,15 @@
+{
+    "name": "drunk_ostrich",
+    "description": "when birds drink booze",
+    "image": "https://ipfs.io/ipfs/QmRPPqbKiBmSvX38oRJHYhne1ApzYFnzbfnePGtJCkh7xq?filename=drunk_ostrich.png",
+    "attributes": [
+        {
+            "trait_type": "soup1",
+            "value": 100
+        },
+        {
+            "trait_type": "soup293745281",
+            "value": 250
+        }
+    ]
+}

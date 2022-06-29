@@ -1,0 +1,16 @@
+{
+    "name": "bababooey",
+    "description": "test bababooey",
+    "image": "https://ipfs.io/ipfs/QmcV9AqNwJRZpModHZeNApEpA9cUj8VMYKiXnMMUp5t3W5?filename=bababooey.mp3",
+    "attributes": [
+        {
+            "trait_type": "bababooey",
+            "value": 100
+        },
+        {
+            "trait_type": "bababooeyness",
+            "value": 250
+        }
+    ],
+    "mediaType": "audio/mp3"
+}

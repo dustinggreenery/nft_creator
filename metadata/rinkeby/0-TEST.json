@@ -1,0 +1,15 @@
+{
+    "name": "TEST",
+    "description": "test description",
+    "image": "https://ipfs.io/ipfs/Qmb9LyUXZx92En4aKS11Vrg66PedsA4m3xyWi27oBDCtPk?filename=test.png",
+    "attributes": [
+        {
+            "trait_type": "Attribute1",
+            "value": 100
+        },
+        {
+            "trait_type": "Attribute2",
+            "value": 250
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"name": "nfttxttest", "description": "test nft for other files", "image": "https://ipfs.io/ipfs/QmXsVFgJJEYyvZ1Ggn38EFfcVTNshfXDWPYSjnMh7z4PjL?filename=nfttxttest.txt", "attributes": [{"trait_type": "txt", "value": 100}, {"trait_type": "text file", "value": 250}], "mediaType": "text/txt"}
